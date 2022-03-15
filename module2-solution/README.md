@@ -1,4 +1,4 @@
-#Module 2 Coding Assignment
+# Module 2 Coding Assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 Link to preview the output: https://koreyoshimy.github.io/coursera-test/module2-solution/
